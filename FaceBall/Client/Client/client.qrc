@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="Client">
+    <file>Resources/face_1.png</file>
+    <file>Resources/face_2.png</file>
+    <file>Resources/face_3.png</file>
+    <file>Resources/face_4.png</file>
+    <file>Resources/ball.png</file>
+    <file>Resources/cam1.jpg</file>
+    <file>Resources/cam2.jpg</file>
+    <file>Resources/cam3.jpg</file>
+    <file>Resources/cam4.jpg</file>
+    <file>Resources/ing.jpg</file>
+    <file>Resources/none.png</file>
+    <file>Resources/scene.jpg</file>
+  </qresource>
+</RCC>
